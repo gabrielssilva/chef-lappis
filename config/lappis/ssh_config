@@ -32,7 +32,7 @@ Host firewall
   User root
 
 Host backup-lappis
-  Hostname 10.0.0.156
+  Hostname 10.0.0.15
   User root
 
 Host dotproject
@@ -40,7 +40,7 @@ Host dotproject
   User root
 
 Host mysql
-  Hostname 10.0.0.143
+  Hostname 10.0.0.138
   User root
 
 Host rocketchat
