@@ -51,6 +51,10 @@ Host portal
   Hostname 10.0.0.133
   User lappis
 
+Host portal.homologa
+  Hostname 10.0.0.153
+  User lappis
+
 Host codeschool
   Hostname 10.0.0.137
   User root
