@@ -63,3 +63,15 @@ Host repos
   Hostname 10.0.0.143
   User lappis
 
+Host portalhomologa
+  Hostname 10.0.0.153
+  User lappis
+
+Host sas
+  Hostname 10.0.0.146
+  User lappis
+
+Host owla
+  Hostname 10.0.0.147
+  User lappis
+

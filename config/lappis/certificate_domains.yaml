@@ -17,3 +17,16 @@ portal:
 codeschool:
   server_name: codeschool.lappis.rocks
   service_port: 80
+
+portalhomologa:
+  server_name: portalhomologa.lappis.rocks
+  service_port: 3000
+
+sas:
+  server_name: sas.lappis.rocks
+  service_port: 8001
+
+owla:
+  server_name: owla.lappis.rocks
+  service_port: 3000
+

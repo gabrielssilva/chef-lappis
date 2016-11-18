@@ -62,3 +62,7 @@ portal.homologa:
 repos:
   run_list:
     - role[deb_repo_server]
+
+portalhomologa:
+  run_list:
+    - role[portal_server]

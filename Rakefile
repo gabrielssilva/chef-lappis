@@ -15,6 +15,7 @@ ips ||= YAML.load_file(ips_file)
 passwords ||= YAML.load_file(passwd_file)
 crt_domains ||= YAML.load_file(certificate_domains_file)
 
+node.data['remote_db'] = ENV['REMOTE_DB'] || nil
 $nodes.each do |node|
   node.data['peers'] = ips
   node.data['passwd'] = passwords
